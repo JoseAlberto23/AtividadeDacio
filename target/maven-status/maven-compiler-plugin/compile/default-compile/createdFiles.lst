@@ -1,0 +1,8 @@
+com/example/seleniumtests/pages/OrangeHRMHomePage.class
+com/example/App.class
+com/example/seleniumtests/BaseTest.class
+com/example/seleniumtests/pages/SauceDemoInventoryPage.class
+com/example/seleniumtests/pages/TheInternetLoginPage.class
+com/example/seleniumtests/pages/OrangeHRMLoginPage.class
+com/example/seleniumtests/pages/SauceDemoLoginPage.class
+com/example/seleniumtests/pages/PracticeTestAutomationLoginPage.class
